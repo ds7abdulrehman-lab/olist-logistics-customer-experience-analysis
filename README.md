@@ -240,9 +240,7 @@ Interactive filters allow users to investigate delivery categories, product cate
 
 # Dashboard Preview
 
-> Add your dashboard screenshots to the `Images` folder and update the file names below if necessary.
-
-![Executive Overview](Images/Executive View.png)
+![Executive Overview](Images/Executive%20Veiw.png)
 
 ![Customer Experience & Risk Analysis](Images/risk_analysis.png)
 
