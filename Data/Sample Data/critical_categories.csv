@@ -1,0 +1,15 @@
+product_category_name,total_orders,average_reviews,dissatisfied_customers,dissatisfied_rate,category_segmentation,business_priority_rank
+artes,193,4.098445595854923,27,13.989637305699482,Critical_Category,11.0
+audio,345,3.8391304347826085,75,21.73913043478261,Critical_Category,7.0
+cama_mesa_banho,9177,3.999291707529694,1459,15.898441756565326,Critical_Category,1.0
+casa_conforto,390,3.887179487179487,73,18.71794871794872,Critical_Category,8.0
+casa_construcao,481,3.9854469854469854,83,17.255717255717258,Critical_Category,6.0
+construcao_ferramentas_seguranca,158,3.9746835443037973,27,17.088607594936708,Critical_Category,11.0
+fashion_roupa_masculina,105,3.8190476190476192,24,22.857142857142858,Critical_Category,12.0
+fashion_underwear_e_moda_praia,116,4.008620689655173,19,16.379310344827587,Critical_Category,13.0
+informatica_acessorios,6498,4.081717451523546,941,14.481378885811019,Critical_Category,3.0
+moveis_decoracao,6260,4.057987220447284,958,15.303514376996805,Critical_Category,2.0
+moveis_escritorio,1244,3.642684887459807,273,21.94533762057878,Critical_Category,5.0
+moveis_sala,409,4.070904645476773,58,14.180929095354522,Critical_Category,9.0
+telefonia,4069,4.051855492750062,575,14.13123617596461,Critical_Category,4.0
+telefonia_fixa,209,3.9665071770334928,35,16.74641148325359,Critical_Category,10.0
