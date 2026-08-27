@@ -238,11 +238,15 @@ Interactive filters allow users to investigate delivery categories, product cate
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
-![Executive Overview](Images/Power%20Bi/Executive%20Veiw.png)
+### Executive Overview
 
-![Customer Experience & Risk Analysis](Images/risk_analysis.png)
+![Executive Overview](Images/Power%20Bi/Executive%20View.png)
+
+### Customer Experience & Risk Analysis
+
+![Customer Experience & Risk Analysis](Images/Power%20Bi/Risk%20Analysis.png)
 
 ---
 
