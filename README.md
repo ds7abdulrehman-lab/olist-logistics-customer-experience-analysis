@@ -240,7 +240,7 @@ Interactive filters allow users to investigate delivery categories, product cate
 
 # Dashboard Preview
 
-![Executive Overview](Images/Executive%20Veiw.png)
+![Executive Overview](Images/Power%20Bi/Executive%20Veiw.png)
 
 ![Customer Experience & Risk Analysis](Images/risk_analysis.png)
 
